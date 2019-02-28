@@ -1,0 +1,4 @@
+# Dynamic-Traffic-Control-on-4-Way-Street-C-Unity-
+The scripts for the Unity project: https://connect.unity.com/p/dynamic-traffic-control-on-4-way-street are uploaded here in the assets folder. Other project assets and meta files are not included since paid assets were used. 
+
+This project serves as a simulation to a traffic control proposal. The proposal here is that traffic control is dynamic in a way that the right of passage is given as first come first serve. Also the green light  duration in each lane is dependent on the amount of traffic on that lane. In this project it is assumed that this could be implemented in reality by using object detection to detect and count vehicles on each lane and by using smart traffic lights which are connected and controlled by a master algorithm. The project is implemented using C# on the Unity game engine.
